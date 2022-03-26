@@ -3,13 +3,6 @@ import { useFormik } from 'formik';
 import * as yup from 'yup';
 import Container from "react-bootstrap/esm/Container";
 
-
-const heading={
-
-  bgcolor:'primary'
-  
-}
-
 function Registeration() {
    const formik = useFormik({
       initialValues: {

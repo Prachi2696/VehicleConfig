@@ -5,8 +5,6 @@ import Card from 'react-bootstrap/Card';
 import Container from "react-bootstrap/esm/Container";
 //import {Link} from 'react-router-dom';
 
-
-
 function Login()
 {
     return(

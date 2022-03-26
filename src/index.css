@@ -1,0 +1,95 @@
+.mb-3{
+   font-size: 20px ;
+   font-weight: bold;
+}
+
+button{
+  color: rgb(15, 15, 17);
+  background: rgb(245, 162, 7);
+  font-size: x-large;
+  font-style:normal;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.registration{
+
+    background-color:rgb(206, 198, 198);
+    /* background: url("https://dl.dropboxusercontent.com/s/eht0zcv3ya92rtx/background.jpg?dl=0") no-repeat ; ; 
+    background-size: 100% ; */
+   
+   	margin: 120px auto;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  font-style: oblique;
+  font-weight: 600;
+  text-align: center;
+ 
+  height: 400px;
+  
+}
+h2{
+  background-color:rgb(46, 43, 43);
+  background-attachment: fixed;
+ font-style: italic;
+ font-family: 'Times New Roman', Times, serif;
+ color: honeydew;
+     
+}
+.regisdiv{
+  width: 600px;
+  margin-left: 500px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+body{
+background-color: transparent;  
+
+}
+
+.login{
+  
+  text-align: center;
+  margin: 150px auto; 
+  background-color: rgba(88, 88, 85, 0.5) !important;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  height: 300px;
+  border: 5px dashed #f7a239;
+  font-weight: 600px;;
+  
+} 
+.divlogin{
+  width: 600px;
+  margin-left: 500px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.contactus{
+  font-size: 30px;
+  font-style: initial;
+  text-decoration:overline;
+  color:black;
+  font-weight:700px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+  text-align: center;
+  font-weight:bolder;
+  font-style: italic;
+  color: brown;
+  font-family:'Times New Roman', Times, serif;
+ background-color:cornsilk;
+}
+
+.aboutusimg{
+  opacity: 0.5;
+}
+
+body{
+  background-image: url("A1.jpeg")   ;
+
+}

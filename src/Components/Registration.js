@@ -23,7 +23,7 @@ function Registeration() {
                .max(50, 'Not more than 50 characters')
                .required('Please Enter Company Address'),
 
-               EmailId: yup.string()
+               EmailId: yup.string().email()
                   .required('Please Enter Valid EmailId' ),
 
                   Contact_No: yup.string()

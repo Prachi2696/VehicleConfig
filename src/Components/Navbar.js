@@ -31,6 +31,7 @@ export const navbar = () => {
                         >
                             <Nav.Link href="/Home"><b>Home</b></Nav.Link>
                             <Nav.Link href="/Aboutus"><b>About us</b></Nav.Link>
+                            <Nav.Link href="/Contactus"><b>Contact us</b></Nav.Link>
                             <Nav.Link href="/Registration"><b>Register</b></Nav.Link>
                             <Nav.Link href="/Login"><b>Sign in</b></Nav.Link>
 

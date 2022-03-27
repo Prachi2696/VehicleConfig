@@ -8,6 +8,7 @@ import Aboutus from './Components/Aboutus';
 import Home from './Components/Home';
 import Registration from './Components/Registration';
 import Login from './Components/Login';
+import Contactus from './Components/Contactus';
 
 
 
@@ -28,6 +29,7 @@ function App() {
           <Route path="Aboutus" element={<Aboutus/>} />
           <Route path="Registration" element={<Registration/>} />
           <Route path="Login" element={<Login/>} />
+          <Route path="Contactus" element={<Contactus/>} />
          
           
 
